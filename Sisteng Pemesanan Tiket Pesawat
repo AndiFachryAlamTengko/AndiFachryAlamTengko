@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistem Pemesanan Tiket Pesawat</title>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Sistem Pemesanan Tiket Pesawat</h1>
+        <nav>
+            <ul>
+                <li><a href="#beranda">Beranda</a></li>
+                <li><a href="#fitur">Fitur</a></li>
+                <li><a href="#cara-pesan">Cara Pemesanan</a></li>
+                <li><a href="#tentang">Tentang Kami</a></li>
+                <li><a href="#kontak">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="beranda">
+        <h2>Pesan Tiket Pesawat Lebih Mudah & Cepat</h2>
+        <p>
+            Temukan penerbangan terbaik untuk perjalanan Anda dengan sistem pemesanan tiket pesawat online kami.  
+            Mudah, aman, dan praktis tanpa harus antre di bandara.
+        </p>
+    </section>
+
+    <!-- Fitur -->
+    <section id="fitur">
+        <h2>Fitur Utama</h2>
+
+        <article>
+            <h3>✈️ Pencarian Penerbangan</h3>
+            <p>Temukan jadwal penerbangan sesuai dengan tujuan dan waktu yang Anda butuhkan.</p>
+        </article>
+
+        <article>
+            <h3>💳 Pembayaran Online</h3>
+            <p>Nikmati kemudahan transaksi dengan berbagai metode pembayaran online yang aman.</p>
+        </article>
+
+        <article>
+            <h3>📄 E-Ticket</h3>
+            <p>Dapatkan tiket elektronik langsung di email Anda tanpa perlu cetak fisik.</p>
+        </article>
+    </section>
+
+    <!-- Cara Pemesanan -->
+    <section id="cara-pesan">
+        <h2>Cara Pemesanan Tiket</h2>
+        <ol>
+            <li>Pilih rute penerbangan dan tanggal keberangkatan.</li>
+            <li>Isi data penumpang dengan benar.</li>
+            <li>Lakukan pembayaran melalui metode yang tersedia.</li>
+            <li>Terima e-ticket di email Anda.</li>
+        </ol>
+    </section>
+
+    <!-- Tentang Kami -->
+    <section id="tentang">
+        <h2>Tentang Kami</h2>
+        <p>
+            Sistem Pemesanan Tiket Pesawat ini dibuat untuk memudahkan masyarakat dalam memesan tiket perjalanan udara.  
+            Kami bekerja sama dengan berbagai maskapai terpercaya untuk memberikan layanan terbaik.
+        </p>
+    </section>
+
+    <!-- Kontak -->
+    <section id="kontak">
+        <h2>Hubungi Kami</h2>
+        <address>
+            <p>Email: <a href="mailto:info@tiketpesawat.com">info@tiketpesawat.com</a></p>
+            <p>Telepon: +62 812 3456 7890</p>
+            <p>Alamat: Jl. Angkasa Raya No. 45, Jakarta</p>
+        </address>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Sistem Pemesanan Tiket Pesawat. Semua Hak Dilindungi.</p>
+        <p>Referensi desain: 
+            <a href="https://dribbble.com/shots/15189615-Flight-Booking-App" target="_blank">
+                Dribbble - Flight Booking App Design
+            </a>
+        </p>
+    </footer>
+
+</body>
+</html>
